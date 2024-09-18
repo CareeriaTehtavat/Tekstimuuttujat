@@ -20,7 +20,7 @@
 
   
 ```
-Minun nimeni on Jenny kaupungissa Helsinki
+Minun nimeni on Jenny ja asun kaupungissa Helsinki
 JennyHelsinki
 Jenny Helsinki
 ```
